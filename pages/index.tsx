@@ -40,7 +40,7 @@ AOS.init({
       <Projects/>
       <PricingSection/>
       {/* <Price/> */}
-      <Reviews/>
+      {/* <Reviews/> */}
       <Contact/>
       <Footer/>
     </div>
